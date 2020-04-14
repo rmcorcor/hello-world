@@ -1,2 +1,3 @@
 # hello-world
 learning github
+irish, find code impossible....even after haing 3 cups of coffee...
